@@ -1,0 +1,4 @@
+Aya_Nakamura, persons/aya.jpeg
+Tekiyath_AMOUSSA, persons/tt.jpeg
+Patrice_Talon, persons/Patrice_Talon.jpg
+Elon_Musk, persons/elon.jpg
